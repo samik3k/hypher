@@ -1,6 +1,6 @@
 {
   "name": "hypher",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "A fast and small hyphenation engine",
   "author": "Bram Stein <b.l.stein@gmail.com> (http://www.bramstein.com)",
   "devDependencies": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bramstein/Hypher.git"
+    "url": "git://github.com/samik3k/Hypher.git"
   },
   "keywords": [
     "hyphenation",
